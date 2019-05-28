@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Tommy</title>
+    <link>https://kungjuna.github.io/topics/</link>
+    <description>Recent content in Topics on Tommy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>kungjune@outlook.com (Juna)</managingEditor>
+    <webMaster>kungjune@outlook.com (Juna)</webMaster>
+    <copyright>(c) 2019 Tommy.</copyright>
+    
+	<atom:link href="https://kungjuna.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
